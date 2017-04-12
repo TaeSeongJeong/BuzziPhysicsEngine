@@ -20,7 +20,7 @@ In Summary,
 - 2017/02/16 ~ 2017/06/30   →  Working on Mathmatics part of Wild Magic Engine. 
 - 2017/07/01 ~ 2017/09/30   →  Working on Graphics, Imagics part of Wild Magic Engine. 
 - 2017/10/01 ~ 2017/12/30   →  Working on Demo application of Wild Magic Engine. 
-- 2018/01/01                        →  Open Buzzi Physics Engine and Demo Application Source Code.
+- 2018/01/01 ~ 2018/01/30   →  Open Buzzi Physics Engine and Demo Application Source Code.
 
 
 Please feel free to contact if you have any questions.
