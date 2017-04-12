@@ -16,11 +16,11 @@ I plan to work porting Mathmatics part until June and then plan to work two part
 After Wild Magic Engine porting is finished, Finally, I will be working on the test demo until November.
 
 In Summary, 
-- 2016/11/01 ~ 2017/02/15   →  Cyclone engine porting is ends. 
+- 2016/11/01 ~ 2017/02/15   →  Cyclone engine porting is ends. 
 - 2017/02/16 ~ 2017/06/30   →  Working on Mathmatics part of Wild Magic Engine. 
 - 2017/07/01 ~ 2017/09/30   →  Working on Graphics, Imagics part of Wild Magic Engine. 
 - 2017/10/01 ~ 2017/12/30   →  Working on Demo application of Wild Magic Engine. 
-- 2018/01/01                →  Open Buzzi Physics Engine and Demo Application Source Code.
+- 2018/01/01                   →  Open Buzzi Physics Engine and Demo Application Source Code.
 
 
 Please feel free to contact if you have any questions.
