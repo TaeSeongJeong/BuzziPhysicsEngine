@@ -1,8 +1,7 @@
 # BuzziPhysicsEngine
 BuzziPhysicsEngine is 3d physics engine for simulation.
 
-This engine is based on Cyclone Engine("Ian Millington, Game Physics Engine Development", https://github.com/idmillington/cyclone-physics ) 
-and WildMagic5 Engine("David H. Eberly, https://www.geometrictools.com/)
+This engine is based on Cyclone Engine("Game Physics Engine Development by Ian Millington", https://github.com/idmillington/cyclone-physics ) and Wild Magic Engine 5.14 Engine("https://www.geometrictools.com/ by David H. Eberly)
 
 I'm ported Cyclone, WildMagic c++ code to c# at all to understand the overall structure of the engine and Readability.
 
