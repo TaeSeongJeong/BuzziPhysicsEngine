@@ -11,7 +11,7 @@ and second aiming to be an easy way to start your engine development everyone.
 I developed it using the Visual Studio 2012 c# and OpenTK library (OpenGL c# wapper).
 
 Please feel free to contact if you have any problems with your code or if you have any questions.
-Contact Email is TaeSeong Jeong (<taesunglove@daum.net>). My location is Republic of Korea.
+Contact Email is TaeSeong Jeong (<buzzi.jeong@gmail.com>). My location is Republic of Korea.
 
 Let me create a physical world with me.
 
