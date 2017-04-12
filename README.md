@@ -17,11 +17,11 @@ After Wild Magic Engine porting is finished, Finally, I will be working on the t
 
 In Summary, 
 
-- 2016/11/01 ~ 2017/02/15  Cyclone engine porting is ends. 
-- 2017/02/16 ~ 2017/06/30  Working on Mathmatics part of Wild Magic Engine. 
-- 2017/07/01 ~ 2017/09/30  Working on Graphics, Imagics part of Wild Magic Engine. 
-- 2017/10/01 ~ 2017/12/30  Working on Demo application of Wild Magic Engine. 
-- 2018/01/01 : Source Open
+- 2016/11/01 ~ 2017/02/15 -> Cyclone engine porting is ends. 
+- 2017/02/16 ~ 2017/06/30 -> Working on Mathmatics part of Wild Magic Engine. 
+- 2017/07/01 ~ 2017/09/30 -> Working on Graphics, Imagics part of Wild Magic Engine. 
+- 2017/10/01 ~ 2017/12/30 -> Working on Demo application of Wild Magic Engine. 
+- 2018/01/01 -> Source Open
 
 Please feel free to contact if you have any questions.
 Contact Email is TaeSeong Jeong (<buzzi.jeong@gmail.com>).
